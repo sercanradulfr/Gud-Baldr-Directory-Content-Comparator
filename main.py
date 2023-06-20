@@ -1,4 +1,5 @@
 import hashlib
+import os
 import pyfiglet
 
 ascii_banner = pyfiglet.figlet_format("Gud Baldr")
